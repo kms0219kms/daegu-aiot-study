@@ -1,5 +1,5 @@
 /*
-  Project Name: Day1_Shield_LED
+  Project Name: Day1_Shield
   Project Description: Shield를 활용하여 경찰차 경광등과 같은 LED 출력을 하는 예제
 
   Author: Minsu Kim <25-10631@knu.hs.kr>
