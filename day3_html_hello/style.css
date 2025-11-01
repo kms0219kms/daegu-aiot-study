@@ -1,0 +1,14 @@
+body {
+    text-align: center;     /* 가운데 정렬 */
+    font-family: "궁서체";   /* 글꼴 지정 */
+}
+
+h1 {
+    color: #ff00ff;       /* 제목 (h1) 글자색 */
+}
+
+button {
+    padding: 10px 20px;     /* 버튼 안쪽 여백 */
+    font-size: 16px;        /* 버튼 글자 크기 */
+    cursor: pointer;        /* 마우스 모양 변경 */
+}
